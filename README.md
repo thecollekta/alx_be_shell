@@ -1,2 +1,2 @@
 #!/bin/bash
-# alx_be_shell
+A script to switch the current user to betty.
